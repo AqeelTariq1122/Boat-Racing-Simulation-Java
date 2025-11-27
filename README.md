@@ -19,6 +19,7 @@ The goal of the project was to **practice Java scripting inside AnyLogic**, cust
 
 ## 🎯 Impact Highlights
 > Accomplished custom agent behavior as measured by fully Java-controlled movement logic by replacing standard AnyLogic blocks with Java-coded race physics.
+
 > Demonstrated performance comparison visualization as measured by speed/time bar charts by computing KPIs for all 10 boats and plotting results dynamically.
 
 
