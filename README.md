@@ -68,10 +68,10 @@ This model is simple but demonstrates **how Java can drive agent movement and be
 
 ## 👨‍💻 About the Author
 
-**Aqeel Tariq**  
-Operations Analyst | Simulation Modeling & Data Visualization  
-AnyLogic ▪ Python ▪ Java ▪ Streamlit  
-Passionate about building creative and data-driven simulations.
+Aqeel Tariq
+Operations Analyst | Simulation Modeling & Data Visualization
+🔧 AnyLogic ▪ Python ▪ Java ▪ Streamlit
+📍 Building digital twins that turn complex operations into measurable decisions.
 
 
 
