@@ -70,7 +70,9 @@ This model is simple but demonstrates **how Java can drive agent movement and be
 
 Aqeel Tariq
 Operations Analyst | Simulation Modeling & Data Visualization
+
 🔧 AnyLogic ▪ Python ▪ Java ▪ Streamlit
+
 📍 Building digital twins that turn complex operations into measurable decisions.
 
 
